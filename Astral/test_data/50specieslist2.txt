@@ -1,0 +1,17 @@
+S_pachygaster_BE:S_pachygaster_BE1,S_pachygaster_BE2,S_pachygaster_BE3
+S_pachygaster_CV:S_pachygasterCV1,S_pachygasterCV2,S_pachygasterCV3,S_pachygasterCV4
+S_pachygaster_JP:S_pachygaster_JP1,S_pachygaster_JP2,S_pachygaster_JP3
+C_psitta:C_psitta1,C_psitta2
+S_greeleyi:S_greeleyi1,S_greeleyi2,S_greeleyi3
+S_tyleri:S_tyleri1
+S_lispus:S_lispus1
+S_dorsalis:S_dorsalis1,S_dorsalis2,S_dorsalis3
+S_spengleri:S_spengleri2,S_spengleri3
+S_maromotus:S_maromotus1,S_maromotus2
+S_annulatus:S_annulatus2,S_annulatus3,S_annulatus1
+S_testudineus:S_testudineus2,S_testudineus3
+S_trichocephalus:S_trichocephalus1,S_trichocephalus2,S_trichocephalus3
+S_parvus:S_parvus3,S_parvus_5,S_parvus_4,S_parvus1,S_parvus2
+S_maculatus:S_maculatus1,S_maculatus2,S_maculatus3
+S_nephalus:S_nephalus1,S_nephalus2
+S_lobatus:S_lobatus1,S_lobatus2

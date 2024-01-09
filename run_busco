@@ -1,0 +1,6 @@
+#!/bin/bash
+
+PATH=$PATH:/apps/augustus/3.3.2/scripts/
+export BUSCO_CONFIG_FILE="/home/z5155527/supertrees_BINF6112_2020/BUSCO.config.ini"
+export AUGUSTUS_CONFIG_PATH="/home/z5155527/supertrees_BINF6112_2020/augustus_config"
+busco -o test_genome -i ./z5155527/test_data_eukaryota_genome.fna -l --cpu 8 -m genome
